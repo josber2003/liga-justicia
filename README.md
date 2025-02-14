@@ -9,3 +9,8 @@ Pueden hacer lo que quieran...
 
 ## Edición desde Github
 Cambio hecho en GitHub.
+
+
+### Cambios hechos en el repositorio clonado
+sdfsda
+
